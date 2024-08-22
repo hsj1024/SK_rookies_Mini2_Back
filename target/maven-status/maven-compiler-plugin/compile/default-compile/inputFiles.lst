@@ -1,0 +1,13 @@
+/Users/seojeong/Documents/GitHub/SK_rookies_Mini2_Back/src/main/java/com/rookies_talk/RookiesTalkApplication.java
+/Users/seojeong/Documents/GitHub/SK_rookies_Mini2_Back/src/main/java/com/rookies_talk/config/WebSocketConfig.java
+/Users/seojeong/Documents/GitHub/SK_rookies_Mini2_Back/src/main/java/com/rookies_talk/controller/ChatController.java
+/Users/seojeong/Documents/GitHub/SK_rookies_Mini2_Back/src/main/java/com/rookies_talk/entity/ChatMessage.java
+/Users/seojeong/Documents/GitHub/SK_rookies_Mini2_Back/src/main/java/com/rookies_talk/entity/ChatRoom.java
+/Users/seojeong/Documents/GitHub/SK_rookies_Mini2_Back/src/main/java/com/rookies_talk/entity/User.java
+/Users/seojeong/Documents/GitHub/SK_rookies_Mini2_Back/src/main/java/com/rookies_talk/kafka/KafkaConfig.java
+/Users/seojeong/Documents/GitHub/SK_rookies_Mini2_Back/src/main/java/com/rookies_talk/kafka/KafkaConsumerService.java
+/Users/seojeong/Documents/GitHub/SK_rookies_Mini2_Back/src/main/java/com/rookies_talk/repository/ChatMessageRepository.java
+/Users/seojeong/Documents/GitHub/SK_rookies_Mini2_Back/src/main/java/com/rookies_talk/repository/ChatRoomRepository.java
+/Users/seojeong/Documents/GitHub/SK_rookies_Mini2_Back/src/main/java/com/rookies_talk/repository/UserRepository.java
+/Users/seojeong/Documents/GitHub/SK_rookies_Mini2_Back/src/main/java/com/rookies_talk/service/ChatService.java
+/Users/seojeong/Documents/GitHub/SK_rookies_Mini2_Back/src/main/java/com/rookies_talk/service/UserService.java
